@@ -1,4 +1,4 @@
-# DGBTxUtility
+# digibyte-tx-utility
 
 **Test Version**
 
